@@ -1,0 +1,5 @@
+tao-all2.dat.gz contains the data for 7 March 80 to 3 May 98. (2.8M; 10M uncompressed)
+tao-all2.missing.gz indicates which values in tao-all2.dat are missing. (60K; 12.6M uncompressed)
+tao-all2.col contains the variable names for large subset.
+elnino.gz contains the data for 23 May 98 to 5 June 98. (10K)
+elnino.col contains the variable names for small subset.
