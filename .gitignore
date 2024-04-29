@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 .pdf
 wangjing.pdf
-LeNet/
+LeNet/data/
